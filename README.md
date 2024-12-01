@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fdwxdev
-- Hi, I’m @fdwxdev
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning JavaScript and React.js
 - 💞️ I’m looking to collaborate on open source projects and web development challenges

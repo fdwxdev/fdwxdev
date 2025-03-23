@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fdwxdev
+- 👋 Hi, I’m fadwa
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning JavaScript and React.js
+- 🌱 I’m currently learning JavaScript and React.js and Laravel
 - 💞️ I’m looking to collaborate on open source projects and web development challenges
 - 📫 How to reach me: aboubker.fdw63@gmail.com
 - 😄 Pronouns: she/Her
